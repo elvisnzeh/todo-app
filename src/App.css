@@ -1,0 +1,10 @@
+.todo-item {
+  margin-bottom: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+form-control{
+  width: 40%;
+}
